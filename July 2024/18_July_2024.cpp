@@ -1,7 +1,7 @@
 class Solution {
   public:
     int alternatingMaxLength(vector<int>& arr) {
-        // CodeGenius
+        
         if(arr.size()<2){
             return arr.size();
         }
